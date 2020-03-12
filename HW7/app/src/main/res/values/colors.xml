@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="PageBackgroundColor">#00344C</color>
+    <color name="ViewBackgroundColor">#00415F</color>
+    <color name="NavigationBarColor">#00415F</color>
+
+    <color name="PrimaryBackgroundColor">#00344C</color>
+    <color name="SecondaryBackgroundColor">#003756</color>
+    <color name="TriciaryBackgroundColor">#2f4f4f</color>
+    <color name="LightBackgroundColor">#00415F</color>
+
+    <color name="PrimaryTextColor">#000000</color>
+    <color name="SecondaryTextColor">#000000</color>
+    <color name="TriciaryTextColor">#000000</color>
+
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HW7</string>
+    <string name="title_itemmodel_list">Items</string>
+    <string name="title_itemmodel_detail">ItemModel Detail</string>
+    <string name="Necklass">Necklass</string>
+    <string name="Head">Head</string>
+    <string name="Unknown">Unknown</string>
+    <string name="PrimaryHand">Primary Hand</string>
+    <string name="OffHand">Off Hand</string>
+    <string name="Finger">Any Finger</string>
+    <string name="RightFinger">Right Finger</string>
+    <string name="LeftFinger">Left Finger</string>
+    <string name="Feet">Feet</string>
+</resources>
